@@ -1,4 +1,4 @@
-function Cart() {
+function Cart(localStorageKey) {
     const cart = {
         cartItems: undefined,
     
